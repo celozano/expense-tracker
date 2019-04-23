@@ -7,9 +7,9 @@
 
 ## Install
 
-`$ git clone https://github.com/celozano/expense-tracker.git`
-`$ cd PROJECT`
-`$ npm install`
+`$ git clone https://github.com/celozano/expense-tracker.git`<br>
+`$ cd PROJECT`<br>
+`$ npm install`<br>
 
 ## Available Scripts
 
